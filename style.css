@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "맑은 고딕", "Malgun Gothic", Gothic, sans-serif;
+    font-family: "HY견명조", "Malgun Gothic", Gothic, sans-serif;
   }
   img {
     width: 500px;
@@ -31,8 +31,8 @@
     padding: 40px 50px;
   }
   .master-title {
-    font-size: 23px;
-    color: #181818;
+    font-size: 25px;
+    color: #a63ce4;
   }
   .master-description {
     font-size: 15px;
@@ -67,13 +67,13 @@
     float: right;
   }
   .search-bar {
-    height: 26px;
+    height: 27px;
     padding: 7px;
   }
   .input-search {
     display: block;
     float: left;
-    background-color: #ffffff;
+    background-color: #b3bbb4;
     border: 1px solid #cccccc;
     border-radius: 15px 0 0 15px;
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -133,7 +133,7 @@
   }
   article {
     padding: 0 10px 20px 10px;
-    border-bottom: 1px solid #c8c8c8;
+    border-bottom: 1px solid #be4c4c;
   }
   .article-header {
     padding: 20px 0;
@@ -144,10 +144,10 @@
     padding-bottom: 10px;
   }
   .article-date {
-    font-size: 13px;
+    font-size: 30px;
   }
   .article-body {
-    font-size: 14px;
+    font-size: 20px;
   }
   .aside-list {
     padding: 10px 0 30px 0;
